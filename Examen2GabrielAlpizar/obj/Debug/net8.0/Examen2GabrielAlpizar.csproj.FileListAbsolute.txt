@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\Examen2GabrielAlpizar\Examen2GabrielAlpizar\bin\Debug\net8.0\Examen2GabrielAlpizar.exe
+C:\Users\andre\source\repos\Examen2GabrielAlpizar\Examen2GabrielAlpizar\bin\Debug\net8.0\Examen2GabrielAlpizar.deps.json
+C:\Users\andre\source\repos\Examen2GabrielAlpizar\Examen2GabrielAlpizar\bin\Debug\net8.0\Examen2GabrielAlpizar.runtimeconfig.json
+C:\Users\andre\source\repos\Examen2GabrielAlpizar\Examen2GabrielAlpizar\bin\Debug\net8.0\Examen2GabrielAlpizar.dll
+C:\Users\andre\source\repos\Examen2GabrielAlpizar\Examen2GabrielAlpizar\bin\Debug\net8.0\Examen2GabrielAlpizar.pdb
+C:\Users\andre\source\repos\Examen2GabrielAlpizar\Examen2GabrielAlpizar\obj\Debug\net8.0\Examen2GabrielAlpizar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Examen2GabrielAlpizar\Examen2GabrielAlpizar\obj\Debug\net8.0\Examen2GabrielAlpizar.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Examen2GabrielAlpizar\Examen2GabrielAlpizar\obj\Debug\net8.0\Examen2GabrielAlpizar.AssemblyInfo.cs
+C:\Users\andre\source\repos\Examen2GabrielAlpizar\Examen2GabrielAlpizar\obj\Debug\net8.0\Examen2GabrielAlpizar.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Examen2GabrielAlpizar\Examen2GabrielAlpizar\obj\Debug\net8.0\Examen2GabrielAlpizar.dll
+C:\Users\andre\source\repos\Examen2GabrielAlpizar\Examen2GabrielAlpizar\obj\Debug\net8.0\refint\Examen2GabrielAlpizar.dll
+C:\Users\andre\source\repos\Examen2GabrielAlpizar\Examen2GabrielAlpizar\obj\Debug\net8.0\Examen2GabrielAlpizar.pdb
+C:\Users\andre\source\repos\Examen2GabrielAlpizar\Examen2GabrielAlpizar\obj\Debug\net8.0\Examen2GabrielAlpizar.genruntimeconfig.cache
+C:\Users\andre\source\repos\Examen2GabrielAlpizar\Examen2GabrielAlpizar\obj\Debug\net8.0\ref\Examen2GabrielAlpizar.dll

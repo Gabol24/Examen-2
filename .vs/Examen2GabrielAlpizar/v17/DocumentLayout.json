@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|c:\\users\\andre\\source\\repos\\examen2gabrielalpizar\\examen2gabrielalpizar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|solutionrelative:examen2gabrielalpizar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|c:\\users\\andre\\source\\repos\\examen2gabrielalpizar\\examen2gabrielalpizar\\ivendedor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|solutionrelative:examen2gabrielalpizar\\ivendedor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|c:\\users\\andre\\source\\repos\\examen2gabrielalpizar\\examen2gabrielalpizar\\ivendedor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|solutionrelative:examen2gabrielalpizar\\ivendedor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|c:\\users\\andre\\source\\repos\\examen2gabrielalpizar\\examen2gabrielalpizar\\clsarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|solutionrelative:examen2gabrielalpizar\\clsarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|c:\\users\\andre\\source\\repos\\examen2gabrielalpizar\\examen2gabrielalpizar\\clscategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|solutionrelative:examen2gabrielalpizar\\clscategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|c:\\users\\andre\\source\\repos\\examen2gabrielalpizar\\examen2gabrielalpizar\\clsinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|solutionrelative:examen2gabrielalpizar\\clsinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|c:\\users\\andre\\source\\repos\\examen2gabrielalpizar\\examen2gabrielalpizar\\clscategoria2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|solutionrelative:examen2gabrielalpizar\\clscategoria2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|c:\\users\\andre\\source\\repos\\examen2gabrielalpizar\\examen2gabrielalpizar\\clscategoria1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|solutionrelative:examen2gabrielalpizar\\clscategoria1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|c:\\users\\andre\\source\\repos\\examen2gabrielalpizar\\examen2gabrielalpizar\\clsvenderor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|solutionrelative:examen2gabrielalpizar\\clsvenderor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|c:\\users\\andre\\source\\repos\\examen2gabrielalpizar\\examen2gabrielalpizar\\clsvendedor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|solutionrelative:examen2gabrielalpizar\\clsvendedor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|c:\\users\\andre\\source\\repos\\examen2gabrielalpizar\\examen2gabrielalpizar\\clsvendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|solutionrelative:examen2gabrielalpizar\\clsvendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|c:\\users\\andre\\source\\repos\\examen2gabrielalpizar\\examen2gabrielalpizar\\clssubmenuarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|solutionrelative:examen2gabrielalpizar\\clssubmenuarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|c:\\users\\andre\\source\\repos\\examen2gabrielalpizar\\examen2gabrielalpizar\\clsreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|solutionrelative:examen2gabrielalpizar\\clsreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|c:\\users\\andre\\source\\repos\\examen2gabrielalpizar\\examen2gabrielalpizar\\clsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|solutionrelative:examen2gabrielalpizar\\clsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|c:\\users\\andre\\source\\repos\\examen2gabrielalpizar\\examen2gabrielalpizar\\clsinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|solutionrelative:examen2gabrielalpizar\\clsinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|c:\\users\\andre\\source\\repos\\examen2gabrielalpizar\\examen2gabrielalpizar\\clscategoria3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432D0FEE-68D2-4C03-BE8C-71D47FD71FD1}|Examen2GabrielAlpizar\\Examen2GabrielAlpizar.csproj|solutionrelative:examen2gabrielalpizar\\clscategoria3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClsInterfaces.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsInterfaces.cs",
+              "RelativeDocumentMoniker": "Examen2GabrielAlpizar\\ClsInterfaces.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsInterfaces.cs",
+              "RelativeToolTip": "Examen2GabrielAlpizar\\ClsInterfaces.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:20:59.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVendedor2.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\IVendedor2.cs",
+              "RelativeDocumentMoniker": "Examen2GabrielAlpizar\\IVendedor2.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\IVendedor2.cs",
+              "RelativeToolTip": "Examen2GabrielAlpizar\\IVendedor2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T01:58:33.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVendedor1.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\IVendedor1.cs",
+              "RelativeDocumentMoniker": "Examen2GabrielAlpizar\\IVendedor1.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\IVendedor1.cs",
+              "RelativeToolTip": "Examen2GabrielAlpizar\\IVendedor1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T01:58:01.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClsVendedor2.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsVendedor2.cs",
+              "RelativeDocumentMoniker": "Examen2GabrielAlpizar\\ClsVendedor2.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsVendedor2.cs",
+              "RelativeToolTip": "Examen2GabrielAlpizar\\ClsVendedor2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T01:19:07.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClsVenderor1.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsVenderor1.cs",
+              "RelativeDocumentMoniker": "Examen2GabrielAlpizar\\ClsVenderor1.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsVenderor1.cs",
+              "RelativeToolTip": "Examen2GabrielAlpizar\\ClsVenderor1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T01:18:51.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClsVendedor.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsVendedor.cs",
+              "RelativeDocumentMoniker": "Examen2GabrielAlpizar\\ClsVendedor.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsVendedor.cs",
+              "RelativeToolTip": "Examen2GabrielAlpizar\\ClsVendedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T01:12:27.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClsCategoria3.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsCategoria3.cs",
+              "RelativeDocumentMoniker": "Examen2GabrielAlpizar\\ClsCategoria3.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsCategoria3.cs",
+              "RelativeToolTip": "Examen2GabrielAlpizar\\ClsCategoria3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T02:07:25.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClsCategoria2.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsCategoria2.cs",
+              "RelativeDocumentMoniker": "Examen2GabrielAlpizar\\ClsCategoria2.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsCategoria2.cs",
+              "RelativeToolTip": "Examen2GabrielAlpizar\\ClsCategoria2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T02:07:05.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClsCategoria1.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsCategoria1.cs",
+              "RelativeDocumentMoniker": "Examen2GabrielAlpizar\\ClsCategoria1.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsCategoria1.cs",
+              "RelativeToolTip": "Examen2GabrielAlpizar\\ClsCategoria1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T02:06:31.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClsCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsCategoria.cs",
+              "RelativeDocumentMoniker": "Examen2GabrielAlpizar\\ClsCategoria.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsCategoria.cs",
+              "RelativeToolTip": "Examen2GabrielAlpizar\\ClsCategoria.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T02:03:58.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClsInventario.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsInventario.cs",
+              "RelativeDocumentMoniker": "Examen2GabrielAlpizar\\ClsInventario.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsInventario.cs",
+              "RelativeToolTip": "Examen2GabrielAlpizar\\ClsInventario.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAJMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T23:54:38.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClsArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsArticulos.cs",
+              "RelativeDocumentMoniker": "Examen2GabrielAlpizar\\ClsArticulos.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsArticulos.cs",
+              "RelativeToolTip": "Examen2GabrielAlpizar\\ClsArticulos.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:05:50.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\Program.cs",
+              "RelativeDocumentMoniker": "Examen2GabrielAlpizar\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\Program.cs",
+              "RelativeToolTip": "Examen2GabrielAlpizar\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:29:30.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClsReporte.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsReporte.cs",
+              "RelativeDocumentMoniker": "Examen2GabrielAlpizar\\ClsReporte.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsReporte.cs",
+              "RelativeToolTip": "Examen2GabrielAlpizar\\ClsReporte.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:35:52.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClsSubmenuArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsSubmenuArticulos.cs",
+              "RelativeDocumentMoniker": "Examen2GabrielAlpizar\\ClsSubmenuArticulos.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsSubmenuArticulos.cs",
+              "RelativeToolTip": "Examen2GabrielAlpizar\\ClsSubmenuArticulos.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:51:23.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClsMenu.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsMenu.cs",
+              "RelativeDocumentMoniker": "Examen2GabrielAlpizar\\ClsMenu.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Examen2GabrielAlpizar\\Examen2GabrielAlpizar\\ClsMenu.cs",
+              "RelativeToolTip": "Examen2GabrielAlpizar\\ClsMenu.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAAGMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:30:38.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
